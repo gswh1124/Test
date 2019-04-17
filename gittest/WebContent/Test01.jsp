@@ -29,5 +29,8 @@
 	<h2>click0</h2>
 	<h2>click1</h2>
 	<h2>click2</h2>
+	<h3>click0</h3>
+	<h3>click1</h3>
+	<h3>click2</h3>
 </body>
 </html>
